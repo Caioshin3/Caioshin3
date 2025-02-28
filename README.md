@@ -19,6 +19,8 @@ Possuo proficiência em desenvolver soluções escaláveis, eficientes e que use
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
 
+
+
 ## Frameworks
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/learn)
 [![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
@@ -26,7 +28,7 @@ Possuo proficiência em desenvolver soluções escaláveis, eficientes e que use
 
 ## Banco de Dados
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927&labelColor=ffffff)]((https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16))
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927&labelColor=ffffff)](https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br/docs/)
 
