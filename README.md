@@ -16,7 +16,7 @@ Possuo proficiência em desenvolver soluções escaláveis, eficientes e que use
 
 ### Linguagens
 
-[![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
+[![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
 
