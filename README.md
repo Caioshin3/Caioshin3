@@ -1,7 +1,8 @@
 
 # Caio Oliveira
 
-Olá, sou estudante da Ciência da Computação e Dev Full Stack em desenvolvimento. Possuo proficiência em desenvolver soluções escaláveis, eficientes e que usem das vantagens das LLMs modernas. Tenho fascínio pelo setor financeiro e de IA.
+Olá, sou estudante da Ciência da Computação e Dev Full Stack em desenvolvimento. 
+Possuo proficiência em desenvolver soluções escaláveis, eficientes e que usem das vantagens das LLMs modernas. Tenho fascínio pelo setor financeiro e de IA.
 
 
 ### Conecte-se comigo
