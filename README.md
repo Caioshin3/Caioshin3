@@ -25,7 +25,7 @@ Olá, sou estudante da Ciência da Computação e Dev Full Stack em desenvolvime
 
 ## Banco de Dados
 
-![SQLServer](https://img.shields.io/badge/SQLServer-%23ffffff.svg?style=for-the-badge&logo=sqlserver&logoColor=-CC2927)
+![SQLServer](https://img.shields.io/badge/SQLServer-%23ffffff.svg?style=for-the-badge&logo=sqlserver&logoColor=-CC2927&labelColor=-CC2927)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br/docs/)
 
