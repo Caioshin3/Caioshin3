@@ -35,7 +35,7 @@ Possuo proficiência em desenvolver soluções escaláveis, eficientes e que use
 ## Cloud / DevOps / IA
 
 [![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)](https://learn.microsoft.com/pt-br/training/azure/)
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
+![AI Foundry](https://img.shields.io/badge/AI%20Foundry-68217A?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 
 
 ### GitHub Analatics
