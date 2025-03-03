@@ -49,9 +49,9 @@ Possuo proficiência em desenvolver soluções escaláveis, eficientes e que use
 
 ## Meus Principais Projetos
 
-[Sistema De Gerenciamento Para Questões da OBI](https://github.com/Caioshin3/Projeto-Integrador-II---Vers-o-de-Gerenciamento)
+[Sistema de Gerenciamento para Questões da OBI](https://github.com/Caioshin3/Projeto-Integrador-II---Vers-o-de-Gerenciamento)
 
-[Sistema De Biblioteca 2024.1 POO](https://github.com/Caioshin3/Sistema-de-Biblioteca)
+[Sistema de Biblioteca 2024.1 POO](https://github.com/Caioshin3/Sistema-de-Biblioteca)
 
 [Dio Lab Open Source](https://github.com/Caioshin3/dio-lab-open-source)
 
