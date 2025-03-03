@@ -24,7 +24,7 @@ Possuo proficiência em desenvolver soluções escaláveis, eficientes e que use
 
 ## Frameworks
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/learn)
-[![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+[![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
 
 ## Banco de Dados
